@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>在ubuntu环境下部署Hexo博客(1)</title>
-    <url>/2023/09/19/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(1)/</url>
+    <title>在ubuntu环境下部署Hexo博客(2)</title>
+    <url>/2023/09/20/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(2)/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>教程</category>
@@ -14,8 +14,8 @@
       </tags>
   </entry>
   <entry>
-    <title>在ubuntu环境下部署Hexo博客(2)</title>
-    <url>/2023/09/20/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(2)/</url>
+    <title>在ubuntu环境下部署Hexo博客(1)</title>
+    <url>/2023/09/19/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(1)/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>教程</category>
@@ -105,6 +105,17 @@
       </categories>
       <tags>
         <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>通过搜索进行问题求解</title>
+    <url>/2023/09/27/%E9%80%9A%E8%BF%87%E6%90%9C%E7%B4%A2%E8%BF%9B%E8%A1%8C%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>人工智能导论</tag>
       </tags>
   </entry>
 </search>
