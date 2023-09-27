@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>在ubuntu环境下部署Hexo博客(3)</title>
-    <url>/2023/09/21/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(3)/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Linux</tag>
-        <tag>ubuntu</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在ubuntu环境下部署Hexo博客(1)</title>
     <url>/2023/09/19/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(1)/</url>
     <content><![CDATA[]]></content>
@@ -21,22 +8,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>Linux</tag>
         <tag>ubuntu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在ubuntu环境下部署Hexo博客(4)</title>
-    <url>/2023/09/22/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(4)/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
         <tag>Linux</tag>
-        <tag>ubuntu</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -47,9 +21,35 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>Linux</tag>
         <tag>ubuntu</tag>
+        <tag>Linux</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在ubuntu环境下部署Hexo博客(3)</title>
+    <url>/2023/09/21/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(3)/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>ubuntu</tag>
+        <tag>Linux</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在ubuntu环境下部署Hexo博客(4)</title>
+    <url>/2023/09/22/%E5%9C%A8ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E5%8D%9A%E5%AE%A2(4)/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>ubuntu</tag>
+        <tag>Linux</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -61,6 +61,17 @@
       </categories>
       <tags>
         <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>智能体</title>
+    <url>/2023/09/27/%E6%99%BA%E8%83%BD%E4%BD%93/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>人工智能导论</tag>
       </tags>
   </entry>
   <entry>
