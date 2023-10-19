@@ -170,17 +170,6 @@
       </tags>
   </entry>
   <entry>
-    <title>智能体</title>
-    <url>/2023/09/27/%E6%99%BA%E8%83%BD%E4%BD%93/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>人工智能导论</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>滑动窗口算法</title>
     <url>/2023/09/22/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[]]></content>
@@ -189,6 +178,17 @@
       </categories>
       <tags>
         <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>智能体</title>
+    <url>/2023/09/27/%E6%99%BA%E8%83%BD%E4%BD%93/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>人工智能导论</tag>
       </tags>
   </entry>
   <entry>
