@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>二叉搜索树</title>
+    <url>/2023/10/19/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数据结构</tag>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>冒泡排序</title>
     <url>/2023/10/10/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</url>
     <content><![CDATA[]]></content>
@@ -76,6 +88,19 @@
       </tags>
   </entry>
   <entry>
+    <title>堆排序</title>
+    <url>/2023/10/09/%E5%A0%86%E6%8E%92%E5%BA%8F/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数据结构</tag>
+        <tag>算法</tag>
+        <tag>排序</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>复杂环境中的搜索</title>
     <url>/2023/09/27/%E5%A4%8D%E6%9D%82%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2/</url>
     <content><![CDATA[]]></content>
@@ -84,19 +109,6 @@
       </categories>
       <tags>
         <tag>人工智能导论</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>堆排序</title>
-    <url>/2023/10/09/%E5%A0%86%E6%8E%92%E5%BA%8F/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-        <tag>排序</tag>
-        <tag>数据结构</tag>
       </tags>
   </entry>
   <entry>
